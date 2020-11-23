@@ -1,4 +1,8 @@
-function getAgeFromBirthday() {
+// календари;
+//jqueryui.com/datepicker/
+// http://aryweb.nl/projects/mootools-datepicker/Test/
+
+https: function getAgeFromBirthday() {
   var month = document.getElementById('b-month').value;
   var day = document.getElementById('b-day').value;
   var year = document.getElementById('b-year').value;
